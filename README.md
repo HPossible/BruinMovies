@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 Bruin Movie is a social app designed to strengthen student connections through shared movie experiences. The app will allow users to explore a list of films in near-by theaters and connect with other students with similar movie tastes to form watch parties.
 
+You can visit our presentation regarding this project [here](https://www.youtube.com/watch?v=jXVoosGmDWA&ab_channel=DANIELZHOU).
+
 ## Getting Started  
 
 Follow these steps to set up and run the project locally:  
